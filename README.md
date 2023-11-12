@@ -30,7 +30,7 @@ The RFID App is a C# desktop application that scans registration IDs from studen
 **Technology:**
 C# .NET
 
-#5. Mobile Store Management System
+# 5. Mobile Store Management System
 Description:
 The Mobile Store Management System is an application that manages mobile inventory, supports CRUD operations, and includes a secure login system. It is developed using C# .NET and utilizes SQL Server for data storage.
 
